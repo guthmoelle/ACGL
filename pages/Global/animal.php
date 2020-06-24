@@ -1,19 +1,15 @@
 <?php include("../Commons/header.php"); ?>
 
 
-    <?= styleTitreNiveau1("Odin", COLOR_BLOG); ?> 
+    <?= styleTitreNiveau1("Mer", COLOR_BLOG); ?> 
     <div class="row border border-dark rounded-lg m-2 align-items-center perso_bgGreen">
         <div class="col p-2 text-center">
-            <img class="img-thumbnail" style="max-height:180px;" src="../../sources/images/Aminaux/Chats/Odin/Odin.jpg" alt="Odin" />
+            <img class="img-thumbnail" style="max-height:180px;" src="../../sources/images/Aminaux/Chats/Framboise/mer.jpg" alt="mer" />
         </div>
-        <div class="col-2 col-md-1 border-left border-right border-dark text-center">
-            <img class="img-fluid m-1" style="width:50px;" src="../../sources/images/Autres/icones/chienOk.png" alt="chienOk" />
-            <img class="img-fluid m-1" style="width:50px;" src="../../sources/images/Autres/icones/chatOk.png" alt="chatOk" />
-            <img class="img-fluid m-1" style="width:50px;" src="../../sources/images/Autres/icones/babyOk.png" alt="babyOk" />
-        </div>
+        
         <div class="col-6 col-md-4 text-center">
-        <div class="mb-2">Puce XXXXXXXXX</div>
-            <div class="mb-2">Né XX/XX/XXXX</div>
+        <div class="mb-2">Situé à XXXXXXXXX</div>
+            <div class="mb-2">Dans XXXXXXXXXXX</div>
             <div class="my-3">
                 <span class="badge badge-warning m-1 p-2 "> douce </span> <!-- balise inline -->
                 <span class="badge badge-warning m-1 p-2 "> calme </span> <!-- balise inline -->
@@ -39,13 +35,13 @@
                 </ol>
                 <div class="carousel-inner text-center">
                     <div class="carousel-item active">
-                        <img src="../../sources/images/Aminaux/Chats/Odin/Odin7.jpg" class="img-thumbnail" style="height:500px;" alt="Odin7">
+                        <img src="../../sources/images/Aminaux/Chats/Framboise/mer.jpg" class="img-thumbnail" style="height:500px;" alt="mer1">
                     </div>
                     <div class="carousel-item">
-                        <img src="../../sources/images/Aminaux/Chats/Odin/Odin5.jpg" class="img-thumbnail" style="height:500px;" alt="Odin5">
+                        <img src="../../sources/images/Aminaux/Chats/Framboise/mer.jpg" class="img-thumbnail" style="height:500px;" alt="mer2">
                     </div>
                     <div class="carousel-item">
-                        <img src="../../sources/images/Aminaux/Chats/Odin/Odin4.jpg" class="img-thumbnail" style="height:500px;" alt="Odin4">
+                        <img src="../../sources/images/Aminaux/Chats/Framboise/mer.jpg" class="img-thumbnail" style="height:500px;" alt="mer3">
                     </div>
                 </div>
                 <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -69,7 +65,7 @@
             </div>
             <hr />
             <div>
-                <img src="../../sources/images/Autres/icones/oeil.jpg" alt="oeil" width="50" height="50" class="d-block mx-auto" />
+                <!-- <img src="../../sources/images/Autres/icones/oeil.jpg" alt="oeil" width="50" height="50" class="d-block mx-auto" /> -->
                 Je ne me trouve pas très loin de Saint-Girons 09<br />
                 Allez à vos claviers, je vous attend et je sais que nous pourrons vivre des belles choses ! ???? 
             </div>

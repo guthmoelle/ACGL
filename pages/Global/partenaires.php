@@ -7,7 +7,7 @@ include("../Commons/header.php");
 
     <div class="row no-gutters">
         <div class="card col-auto mx-auto mt-2" style="width: 18rem;">
-            <img src="../../sources/images/Autres/updp-logo.png" class="card-img-top p-1" alt="UPDP">
+            <img src="../../sources/images/Autres/mer.jpg" class="card-img-top p-1" alt="mer">
             <div class="card-body text-center">
                 <h5 class="card-title perso_colorRoseMenu perso_policeTitre perso_textShadow">UPDP 09</h5>
                 <p class="card-text">Contactez un éducateur canin, contactez UPDP 09</p>
@@ -15,7 +15,7 @@ include("../Commons/header.php");
             </div>
         </div>
         <div class="card col-auto mx-auto mt-2" style="width: 18rem;">
-            <img src="../../sources/images/Autres/updp-logo.png" class="card-img-top p-1" alt="UPDP">
+            <img src="../../sources/images/Autres/mer.jpg" class="card-img-top p-1" alt="mer">
             <div class="card-body text-center">
                 <h5 class="card- perso_colorRoseMenu perso_policeTitre perso_textShadow">UPDP 09</h5>
                 <p class="card-text">Contactez un éducateur canin, contactez UPDP 09</p>

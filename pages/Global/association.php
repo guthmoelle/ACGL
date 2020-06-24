@@ -40,14 +40,14 @@ echo styleTitreNiveau1("Association des Congolais du Grand Lyon (A.C.G.L) <br/> 
     <div class="row align-items-center mb-5">
         <div class="col-12 col-lg-3 text-center">
         <span class="badge badge-warning">L'équipe en photo !</span>
-            <img class="img-fluid"  src="../../sources/images/Autres/equipe.jpg" alt="image Odin" />
+            <img class="img-fluid"  src="../../sources/images/Autres/equipe.jpg" alt="equipe" />
         </div>
         <div class="col-12 col-lg-9">
-            <span class="badge badge-primary">Julie</span> : présidente<br />
-            <span class="badge badge-success">Marie</span> : trésorière  <br />
-            <span class="badge badge-warning">Laetitia</span> : secrétaire <br />
-            <span class="badge badge-danger">Emmy</span> : secrétaire adjointe <br />
-            <span class="badge badge-info">Floriane</span> : Charge de communication
+            <span class="badge badge-primary">Marie</span> : présidente<br />
+            <span class="badge badge-success">Julie</span> : trésorière  <br />
+            <span class="badge badge-warning">Laeti</span> : secrétaire <br />
+            <span class="badge badge-danger">Emma</span> : secrétaire adjointe <br />
+            <span class="badge badge-info">Florian</span> : Charge de communication
         </div>
     </div>
 

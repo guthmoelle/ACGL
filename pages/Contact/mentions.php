@@ -10,14 +10,14 @@ $NAME = "A.C.G.L";
             <?= styleTitreNiveau1("Mentions légales", COLOR_CONTACT) ?>
                 <?= styleTitreNiveau3("À propos", COLOR_CONTACT) ?>
                 <p class="pl-5">
-                    <span>Assistance</span> aux chiens/chats en détresse et/ou abandonnés, perdus. Ils seront placés en famille d'accueil puis proposés à l'adoption après une mise en règle vétérinaire.<br/> 
-                    Stérilisation et nourrissage sur différents sites de chats errants
+                    <span>Assistance</span> aux XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.<br/> 
+                    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx
                 </p>
                 <?= styleTitreNiveau3("Mentions légales", COLOR_CONTACT) ?>
                 <p class="pl-5"> 
-                    Association de loi 1901 RNA W093001527<br/>
-                    Parution au JO le 29/04/18<br/>
-                    Service pour animaux <br/>
+                    Association de loi XXXX RNA XXXXXXXXXXXX<br/>
+                    Parution au JO le XX/XX/XX<br/>
+                    Service pour XXXXX <br/>
                     Organisation à but non lucratif
                 </p>
                 <?= styleTitreNiveau3("Présentation du site", COLOR_CONTACT) ?>
@@ -26,13 +26,13 @@ $NAME = "A.C.G.L";
                     il est précisé aux utilisateurs du site de <?php echo $NAME ?> l'identité des différents intervenants dans le cadre de sa réalisation et de son suivi.</p>
                     <h3>Propriétaire</h3>
                     <p><strong>Association des Congolais du Grand Lyon (<?php echo $NAME ?>)</strong></p>
-                    <p>Hameau de la Souleille <br/>
-                        09420 Clermont, Midi-Pyrenees, France</p>
+                    <p>Villeurbanne <br/>
+                        69 Rhône, Lyon, France</p>
                     <p> <?php echo $url ?> </p>
-                    <p > Num SIRET : 83976273900010</p><br />
+                    <p > Num SIRET : XXXXXXXXXXXXXXXXXXXXX</p><br />
                 </div>
                 <?= styleTitreNiveau3("Responsable de publication", COLOR_CONTACT) ?>
-                <p class="pl-5">Julie LEPESQUEUR (présidente de l'association)</p>
+                <p class="pl-5">Fred NZONDO (présidente de l'association)</p>
 
                 <?= styleTitreNiveau3("Hébergeur", COLOR_CONTACT) ?>
                 <div class="pl-5">

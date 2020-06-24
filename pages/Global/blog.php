@@ -6,7 +6,7 @@
         <div class="card mx-auto my-2 perso_bgRose" style="max-width: 540px;">
             <div class="row no-gutters">
                 <div class="col-12 col-md-4 d-none d-lg-block">
-                    <img src="../../sources/images/Aminaux/Chats/Framboise/Framboise.jpg" class="img-thumbnail" alt="Framboise">
+                    <img src="../../sources/images/Aminaux/Chats/Framboise/mer.jpg" class="img-thumbnail" alt="mer">
                 </div>
                 <div class="col-12 col-md-8">
                     <div class="card-body">
@@ -22,7 +22,7 @@
         <div class="card mx-auto my-2 perso_bgRose" style="max-width: 540px;">
             <div class="row no-gutters">
                 <div class="col-12 col-md-4 d-none d-lg-block">
-                    <img  src="../../sources/images/Aminaux/Chats/Framboise/Framboise.jpg" class="img-thumbnail" alt="Framboise">
+                    <img  src="../../sources/images/Aminaux/Chats/Framboise/mer.jpg" class="img-thumbnail" alt="mer">
                 </div>
                 <div class="col-12 col-md-8">
                     <div class="card-body">
@@ -38,7 +38,7 @@
         <div class="card mx-auto my-2 perso_bgRose" style="max-width: 540px;">
             <div class="row no-gutters">
                 <div class="col-12 col-md-4 d-none d-lg-block">
-                    <img  src="../../sources/images/Aminaux/Chats/Framboise/Framboise.jpg" class="img-thumbnail" alt="Framboise">
+                    <img  src="../../sources/images/Aminaux/Chats/Framboise/mer.jpg" class="img-thumbnail" alt="mer">
                 </div>
                 <div class="col-12 col-md-8">
                     <div class="card-body">
@@ -54,7 +54,7 @@
         <div class="card mx-auto my-2 perso_bgRose" style="max-width: 540px;">
             <div class="row no-gutters">
                 <div class="col-12 col-md-4 d-none d-lg-block">
-                    <img  src="../../sources/images/Aminaux/Chats/Framboise/Framboise.jpg" class="img-thumbnail" alt="Framboise">
+                    <img  src="../../sources/images/Aminaux/Chats/Framboise/mer.jpg" class="img-thumbnail" alt="mer">
                 </div>
                 <div class="col-12 col-md-8">
                     <div class="card-body">

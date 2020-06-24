@@ -4,10 +4,10 @@
 
 
 
-<?= styleTitrePost("Posté le : <span class='".COLOR_ACTUS."'> 05/2020 </span> par <span class='".COLOR_ACTUS."'> Framboise </span>") ?>
+<?= styleTitrePost("Posté le : <span class='".COLOR_ACTUS."'> 05/2020 </span> par <span class='".COLOR_ACTUS."'> Mer </span>") ?>
     <div class="row no-gutters align-items-center" style="min-height:300px;">
         <div class="col-12 col-md-3 text-center">
-            <img class="img-thumbnail" style="max-height:280px;" src="../../sources/images/Aminaux/Chats/Framboise/Framboise.jpg" alt="Framboise" />
+            <img class="img-thumbnail" style="max-height:280px;" src="../../sources/images/Aminaux/Chats/Framboise/mer.jpg" alt="mer" />
         </div>
         <div class="col-12 col-md-9">
                 Bonjour tous,<br />
@@ -29,10 +29,10 @@
     <br>
 
 
-    <?= styleTitrePost("Posté le : <span class='".COLOR_ACTUS."'> 05/2020 </span> par <span class='".COLOR_ACTUS."'> Framboise </span>") ?>
+    <?= styleTitrePost("Posté le : <span class='".COLOR_ACTUS."'> 05/2020 </span> par <span class='".COLOR_ACTUS."'> Mer </span>") ?>
     <div class="row no-gutters align-items-center" style="min-height:300px;">
         <div class="col-12 col-md-3 text-center">
-            <img class="img-thumbnail" style="max-height:280px;" src="../../sources/images/Aminaux/Chats/Framboise/Framboise.jpg" alt="Framboise" />
+            <img class="img-thumbnail" style="max-height:280px;" src="../../sources/images/Aminaux/Chats/Framboise/mer.jpg" alt="mer" />
         </div>
         <div class="col-12 col-md-9">
                 Bonjour tous,<br />
